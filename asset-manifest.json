@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7e918b7.chunk.css",
+    "main.js": "/static/js/main.d7d79451.chunk.js",
+    "main.js.map": "/static/js/main.d7d79451.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.bd1528be.chunk.js": "/static/js/2.bd1528be.chunk.js",
+    "static/js/2.bd1528be.chunk.js.map": "/static/js/2.bd1528be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.289e6ed117f830449d13017a9f8ab9b6.js": "/precache-manifest.289e6ed117f830449d13017a9f8ab9b6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b7e918b7.chunk.css.map": "/static/css/main.b7e918b7.chunk.css.map",
+    "static/js/2.bd1528be.chunk.js.LICENSE.txt": "/static/js/2.bd1528be.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Niconne.1c8d9ad0.ttf",
+    "static/media/background1.jpg": "/static/media/background1.bf48c5af.jpg",
+    "static/media/background2.jpg": "/static/media/background2.95c7f61e.jpg",
+    "static/media/background3.jpeg": "/static/media/background3.0944398d.jpeg",
+    "static/media/doge.png": "/static/media/doge.c07b95a5.png",
+    "static/media/logo.svg": "/static/media/logo.fccde8a1.svg",
+    "static/media/model.png": "/static/media/model.bfe81ff5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.bd1528be.chunk.js",
+    "static/css/main.b7e918b7.chunk.css",
+    "static/js/main.d7d79451.chunk.js"
+  ]
+}
